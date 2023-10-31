@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **venkat2552004@gmail.com**
 
-- ⚡ Fun fact **I confessed to my c-r-u-s-h**
+<!-- - ⚡ Fun fact **I confessed to my c-r-u-s-h** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
