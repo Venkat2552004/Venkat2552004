@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/venkat2552004/" target="blank"><img align="center" src="https://logospng.org/download/linkedin/logo-linkedin-icon-1024.png" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://linkedin.com/venkat2552004/" target="blank"><img align="center" src="https://logospng.org/download/linkedin/logo-linkedin-icon-1024.png" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/venkat2552004" target="blank"><img align="center" src="https://vinitshahdeo.github.io/CodeChef-VIT-Website/img/about/logo.jpeg" alt="Codechef" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/venkat2552004" target="blank"><img align="center" src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8b9fc1fa-bb42-45c6-957b-3b6611c542f1.png?ixlib=react-9.0.3&ch=Width%2CDPR&auto=format&w=4088" alt="Hackerrank" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/venkat2552004" target="blank"><img align="center" src="https://wargraver.github.io/Portfolio/images/codeforces_logo.jpg" alt="Codeforces" height="30" width="40" /></a>
