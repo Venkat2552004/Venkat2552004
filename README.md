@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venkat2552004" alt="venkat2552004" /></a> </p>
 
-- 🔭 I’m currently working on **Myself**
+- 🔭 I’m currently working on **LowCode - A minimalist coding platform**
 
-- 🌱 I’m currently learning **MERN Stack, Mobile App Development, CyberSecurity, JS**
+- 🌱 I’m currently learning **MERN Stack, Mobile App Development, AWS Cloud and ML**
 
 - 👯 I’m looking to collaborate on **backend developing**
 
