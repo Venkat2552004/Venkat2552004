@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm VENKATA MAHESH POLUMURI</h1>
-<h3 align="center">A passionate Computer Science Student from India</h3>
+<h3 align="center">A passionate Computer Science Student from Andhra Pradesh, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkat2552004&label=Profile%20views&color=0e75b6&style=flat" alt="venkat2552004" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venkat2552004" alt="venkat2552004" /></a> </p>
 
-- 🔭 I’m currently working on **LowCode - A minimalist coding platform**
+- 🔭 I’m currently working on **Gos-simp -> A Real-time Chat Application**
 
-- 🌱 I’m currently learning **MERN Stack, Mobile App Development, AWS Cloud and ML**
+- 🌱 I’m currently learning **MERN Stack and AWS Cloud**
 
 - 👯 I’m looking to collaborate on **backend developing**
 
 - 🤝 I’m looking for help with **a lot**
 
-- 💬 Ask me about **C++, Databases**
+- 💬 Ask me about **DSA, DBMS, OS, CN**
 
 - 📫 How to reach me **venkat2552004@gmail.com**
 
