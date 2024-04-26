@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venkat2552004" alt="venkat2552004" /></a> </p>
 
-- 🔭 I’m currently working on **Gos-simp -> A Real-time Chat Application**
+- 🔭 I’m currently working on **Gossimps -> A Real-time Chat Application**
 
 - 🌱 I’m currently learning **MERN Stack and AWS Cloud**
 
