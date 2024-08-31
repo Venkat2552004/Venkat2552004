@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venkat2552004" alt="venkat2552004" /></a> </p>
 
-- 🔭 I’m currently working on **Gossimps -> A Real-time Chat Application**
+- 🔭 I’m currently working on **ProStart -> A CLI tool that automates the project setup.**
 
-- 🌱 I’m currently learning **MERN Stack and AWS Cloud**
+- 🌱 I’m currently learning **AWS Cloud and Blogging**
 
-- 👯 I’m looking to collaborate on **backend developing**
+- 👯 I’m looking to collaborate on **Hackathons and Projects Building**
 
-- 🤝 I’m looking for help with **a lot**
+- 🤝 I’m looking for help with **Setup process of various frameworks**
 
 - 💬 Ask me about **DSA, DBMS, OS, CN**
 
