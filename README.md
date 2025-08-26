@@ -1,19 +1,21 @@
 <h1 align="center">Hi 👋, I'm VENKATA MAHESH POLUMURI</h1>
 <h3 align="center">A passionate Computer Science Student from Andhra Pradesh, India</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=venkat2552004)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=venkat2552004)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkat2552004&base=3487&abbreviated=true&label=Profile%20views&color=0e75b6&style=flat" alt="venkat2552004" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venkat2552004" alt="venkat2552004" /></a> </p>
 
-- 🔭 I’m currently working on **ProStart -> A CLI tool that automates the project setup.**
+-->
 
-- 🌱 I’m currently learning **AWS Cloud and Blogging**
+- 🔭 I’m currently working on **Google Cloud Organizer.**
+
+- 🌱 I’m currently learning **Advanced CP concepts, AWS Cloud and Blogging**
 
 - 👯 I’m looking to collaborate on **Hackathons and Projects Building**
 
-- 🤝 I’m looking for help with **Setup process of various frameworks**
+- 🤝 I’m looking for help with **Job Oppurtunities**
 
 - 💬 Ask me about **DSA, DBMS, OS, CN**
 
