@@ -1,41 +1,63 @@
-<h1 align="center">Hi 👋, I'm VENKATA MAHESH POLUMURI</h1>
-<h3 align="center">A passionate Computer Science Student from Andhra Pradesh, India</h3>
+# Hi there, I'm Venkata Mahesh Polumuri 👋
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=venkat2552004)](https://github.com/ryo-ma/github-profile-trophy)
+[![AI Engineer](https://img.shields.io/badge/Role-AI%20Engineer%20%40%20TCS-0052CC?style=for-the-badge&logo=tata)](https://linkedin.com/in/venkat2552004)
+[![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS-Certified%20AI%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://linkedin.com/in/venkat2552004)
+[![Claude Certified](https://img.shields.io/badge/Claude-Certified%20Developer-D97706?style=for-the-badge&logo=anthropic&logoColor=white)](https://linkedin.com/in/venkat2552004)
+[![LeetCode Rating](https://img.shields.io/badge/LeetCode-1800%2B%20Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/venkat2552004)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=venkat2552004&base=3487&abbreviated=true&label=Profile%20views&color=0e75b6&style=flat" alt="venkat2552004" /> </p>
+I am an **AI Engineer** specializing in enterprise RAG pipelines, Model Context Protocol (MCP) servers, multi-agent workflows, and LLM evaluation harnesses.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venkat2552004" alt="venkat2552004" /></a> </p>
+- 🔭 **Currently:** Building production AI systems & multi-agent architectures at **Tata Consultancy Services (TCS)**.
+- 🏆 **Recent Recognition:** Awarded the **TCS Star Team Award** for deploying an enterprise AI Knowledge Base Ingestion Pipeline to production in 60 days.
+- 💡 **Core Expertise:** Enterprise RAG, Model Context Protocol (MCP), LLM-as-a-Judge Evals, Prompt Caching, Vector Databases (`pgvector`), & High-Performance Microservices.
+- ⚡ **Fun Fact:** I love optimizing token economics—cut LLM input token usage by ~90% on AWS Bedrock using system prompt caching!
 
--->
+---
 
-- 🔭 I’m currently working on **Google Cloud Organizer.**
+### 🛠️ Tech Stack & Capabilities
 
-- 🌱 I’m currently learning **Advanced CP concepts, AWS Cloud and Blogging**
+| Domain                        | Technologies                                                                                                            |
+| ----------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| **AI & Systems**              | Model Context Protocol (MCP), AWS Bedrock, Claude, OpenAI SDK, LLM-as-a-Judge Evals, Prompt Caching, RAG, OpenTelemetry |
+| **Languages**                 | Python, C++, Java, TypeScript, SQL                                                                                      |
+| **Frameworks & Libraries**    | FastAPI, Pydantic, Pytest, Spring Boot, Node.js, Express.js, React.js, Vitest                                           |
+| **Databases & Vector Stores** | PostgreSQL (`pgvector`), MySQL, MongoDB, IndexedDB                                                                      |
+| **Cloud & DevOps**            | AWS (Bedrock, S3, Secrets Manager, Lambda, Fargate, EC2, ECS, IAM), Linux / systemd, Docker                             |
 
-- 👯 I’m looking to collaborate on **Hackathons and Projects Building**
+---
 
-- 🤝 I’m looking for help with **Job Oppurtunities**
+### 🚀 Featured Projects
 
-- 💬 Ask me about **DSA, DBMS, OS, CN**
+#### 🛠️ [vps-mcp](https://github.com/Venkat2552004/vps-mcp) — Production Read-Only Linux Diagnostics MCP Server
 
-- 📫 How to reach me **venkat2552004@gmail.com**
+- _Python, Model Context Protocol (MCP), systemd, Pytest_
+- Zero-dependency Python MCP server exposing **14 diagnostic tools**, `vps-docs://` resources, and triage prompts over stdio JSON-RPC 2.0.
+- Enforces strict privilege separation without `sudo` via systemd socket activation (`0660` Unix socket, `NoNewPrivileges=true`).
+- Features an **LLM-as-a-Judge evaluation harness** across 20+ outage scenarios, achieving **95% tool-selection accuracy**.
 
-<!-- - ⚡ Fun fact **I confessed to my c-r-u-s-h** -->
+#### 🧹 [Winnow](https://github.com/Venkat2552004/Winnow) — AI Inbox Triage & Feed Filtering Extension
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/venkat2552004/" target="blank"><img align="center" src="https://logospng.org/download/linkedin/logo-linkedin-icon-1024.png" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/venkat2552004" target="blank"><img align="center" src="https://vinitshahdeo.github.io/CodeChef-VIT-Website/img/about/logo.jpeg" alt="Codechef" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/venkat2552004" target="blank"><img align="center" src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/8b9fc1fa-bb42-45c6-957b-3b6611c542f1.png?ixlib=react-9.0.3&ch=Width%2CDPR&auto=format&w=4088" alt="Hackerrank" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/venkat2552004" target="blank"><img align="center" src="https://wargraver.github.io/Portfolio/images/codeforces_logo.jpg" alt="Codeforces" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/venkat2552004" target="blank"><img align="center" src="https://coderaky.com/images/icons/leetcode.png" alt="Leetcode" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@venkat2552004" target="blank"><img align="center" src="https://images.saasworthy.com/tr:w-200,h-0/hackerearth_9253_logo_1596603366_wm6ce.png" alt="@venkat2552004" height="30" width="40" /></a>
+- _TypeScript, Chrome MV3, OpenAI SDK, Vitest, Playwright_
+- Chrome Manifest V3 extension automating Gmail categorization and LinkedIn feed de-slop via a multi-tier routing pipeline (Local Heuristics → Roar AI Gateway → Sarvam Fallback).
+- Automated LLM eval harness over **70+ test fixtures** achieving **94% classification precision** and a **35% reduction in API costs**.
+- Built with IndexedDB caching, `declarativeNetRequest` header rules, Vitest unit tests, and Playwright E2E automation.
+
+---
+
+### 📊 GitHub & Coding Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Venkat2552004&show_icons=true&theme=tokyonight&hide_border=true" alt="Venkata Mahesh's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkat2552004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.britefish.net%2Fwp-content%2Fuploads%2F2019%2F07%2Flogo-c-1.png&f=1&nofb=1&ipt=45374bf1048e7da3b44624bbcc9119cc9649a5c3f48701647b4e938acd6cac5d&ipo=images" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://clipground.com/images/cpp-logo-clipart-5.jpg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://www.pinpng.com/pngs/m/304-3046108_css3-logo-logos-css3-hd-png-download.png" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://pathowe.co.uk/wp-content/uploads/2017/02/HTML5.png" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="http://www.diapason-info.com/wp-content/uploads/2014/07/java-logo-e1405625638583.png" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://clipground.com/images/logo-javascript-clipart-1.jpg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="http://pluspng.com/img-png/mongodb-png--1000.png" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="http://sqlbackupandftp.com/blog/wp-content/uploads/2015/01/mysql-logo_2800x2800_pixels1.png" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="http://www.mindrops.com/images/nodejs-image.png" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://ojt.com/wp-content/uploads/2021/08/python-programming-language.png" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=venkat2552004&show_icons=true&locale=en&layout=compact" alt="venkat2552004" /></p>
+### 🤝 Connect With Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venkat2552004&show_icons=true&locale=en" alt="venkat2552004" /></p>
+<p align="left">
+  <a href="https://linkedin.com/in/venkat2552004"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:venkat2552004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://leetcode.com/venkat2552004"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.codechef.com/users/venkat2552004"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+</p>
